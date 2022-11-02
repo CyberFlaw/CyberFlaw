@@ -35,5 +35,6 @@
 
 **📈 My GitHub Stats**
 
-<p align="left"><img alt="CyberFlaw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CyberFlaw&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberFlaw&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&count_private=true">
+  
+  <p align="left"><img alt="CyberFlaw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CyberFlaw&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
