@@ -16,7 +16,7 @@
  
 - ⚡ Fun fact: I love ricing my linux setup
 
-- 👨‍💻 Current Development Flow: Ubuntu + i3 + tmux + Neovim(NvChad) 
+- 👨‍💻 Current Development Flow: Ubuntu + i3 + tmux + Neovim 
 
 **🔨 Languages and Tools**
 
