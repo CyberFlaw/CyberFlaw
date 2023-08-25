@@ -8,7 +8,7 @@
 </a>
 <br/>
 
-- 👨‍🎓 I'm currently a COMSCI grad student from [Govt. Engineering College, Thrissur](http://gectcr.ac.in)
+- 👨‍🎓 I'm currently a COMSCI graduate from [Govt. Engineering College, Thrissur](http://gectcr.ac.in)
 
 - 🔭 I'm aspiring to contribute more to Open Source
  
